@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\EvenMatre\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\EvenMatre\\.nuget\\packages"
+      "/Users/even/.dotnet/store/|arch|/|tfm|",
+      "/Users/even/.nuget/packages"
     ]
   }
 }

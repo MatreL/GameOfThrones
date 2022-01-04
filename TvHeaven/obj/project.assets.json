@@ -4971,19 +4971,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EvenMatre\\.nuget\\packages\\": {}
+    "/Users/even/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Documents\\Skule\\3ar_første_semester\\Webutvikling\\eksamen\\EksamenPGR305\\TvHeaven\\TvHeaven.csproj",
+      "projectUniqueName": "/Users/even/Desktop/GameOfThrones/TvHeaven/TvHeaven.csproj",
       "projectName": "TvHeaven",
-      "projectPath": "W:\\Documents\\Skule\\3ar_første_semester\\Webutvikling\\eksamen\\EksamenPGR305\\TvHeaven\\TvHeaven.csproj",
-      "packagesPath": "C:\\Users\\EvenMatre\\.nuget\\packages\\",
-      "outputPath": "W:\\Documents\\Skule\\3ar_første_semester\\Webutvikling\\eksamen\\EksamenPGR305\\TvHeaven\\obj\\",
+      "projectPath": "/Users/even/Desktop/GameOfThrones/TvHeaven/TvHeaven.csproj",
+      "packagesPath": "/Users/even/.nuget/packages/",
+      "outputPath": "/Users/even/Desktop/GameOfThrones/TvHeaven/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EvenMatre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/even/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5034,7 +5034,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
