@@ -1,0 +1,146 @@
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/appsettings.Development.json
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/appsettings.json
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/TvHeaven.deps.json
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.json
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.dev.json
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/ref/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/TvHeaven.pdb
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.AssemblyReference.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfoInputs.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfo.cs
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.CoreCompileInputs.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cs
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.Manifest.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.xml
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/scopedcss/bundle/TvHeaven.styles.css
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.RazorTargetAssemblyInfo.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/ref/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.pdb
+/Users/martinandrelexberg/Desktop/TvHeaven/obj/Debug/net5.0/TvHeaven.genruntimeconfig.cache
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/DnsClient.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/SharpCompress.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/martinandrelexberg/Desktop/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/appsettings.Development.json
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/appsettings.json
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.deps.json
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.json
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.dev.json
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/ref/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.pdb
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/DnsClient.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/SharpCompress.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.AssemblyReference.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfoInputs.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfo.cs
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.CoreCompileInputs.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cs
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.Manifest.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.xml
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/scopedcss/bundle/TvHeaven.styles.css
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.RazorTargetAssemblyInfo.cache
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/ref/TvHeaven.dll
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.pdb
+/Users/martinandrelexberg/Desktop/eksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.genruntimeconfig.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/appsettings.Development.json
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/appsettings.json
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.deps.json
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.json
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.runtimeconfig.dev.json
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/ref/TvHeaven.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/TvHeaven.pdb
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/DnsClient.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/SharpCompress.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.AssemblyReference.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfoInputs.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.AssemblyInfo.cs
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.csproj.CoreCompileInputs.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cs
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.MvcApplicationPartsAssemblyInfo.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.Manifest.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/staticwebassets/TvHeaven.StaticWebAssets.xml
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/scopedcss/bundle/TvHeaven.styles.css
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.RazorTargetAssemblyInfo.cache
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/ref/TvHeaven.dll
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.pdb
+/Users/even/Documents/tredje_aar/Webutvikling 3/Eksamen/EksamenPGR305/TvHeaven/obj/Debug/net5.0/TvHeaven.genruntimeconfig.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\appsettings.Development.json
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\appsettings.json
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.exe
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.deps.json
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.runtimeconfig.json
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.runtimeconfig.dev.json
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\ref\TvHeaven.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\TvHeaven.pdb
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\DnsClient.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\Microsoft.OpenApi.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\MongoDB.Bson.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\MongoDB.Driver.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\SharpCompress.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.csproj.AssemblyReference.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.GeneratedMSBuildEditorConfig.editorconfig
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.AssemblyInfoInputs.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.AssemblyInfo.cs
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.csproj.CoreCompileInputs.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.MvcApplicationPartsAssemblyInfo.cs
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.MvcApplicationPartsAssemblyInfo.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\staticwebassets\TvHeaven.StaticWebAssets.Manifest.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\staticwebassets\TvHeaven.StaticWebAssets.xml
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\scopedcss\bundle\TvHeaven.styles.css
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.RazorTargetAssemblyInfo.cache
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.csproj.CopyComplete
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\ref\TvHeaven.dll
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.pdb
+W:\Documents\Skule\3ar_første_semester\Webutvikling\eksamen\EksamenPGR305\TvHeaven\obj\Debug\net5.0\TvHeaven.genruntimeconfig.cache
